@@ -1,7 +1,7 @@
 
   
   ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  I'm a software engineer at [Insights Network](https://about.instars.com). 
+  I'm a software engineer at [Insights Network](https://insights.network). 
   
   **📫 Reach me at:**<br>
 
