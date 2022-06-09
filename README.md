@@ -1,7 +1,7 @@
 
   
-  ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  I'm a software engineer at [Loop Support](https://www.loopsupport.com/). 
+  ### Hi there, welcome to my Github! 👋
+  I'm a senior software engineer at [Loop Support](https://www.loopsupport.com/). 
   
   **📫 Reach me at:**<br>
 
