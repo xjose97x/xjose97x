@@ -1,7 +1,7 @@
 
   
   ### Hi there, welcome to my Github! 👋
-  I'm a senior software engineer at [Loop Support](https://www.loopsupport.com/). 
+  I'm a senior software engineer at [Itos Technology, S.L.](https://itos.es/en/). 
   
   **📫 Reach me at:**<br>
 
